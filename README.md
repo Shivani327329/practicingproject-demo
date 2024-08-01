@@ -1,2 +1,2 @@
 # practicingproject-demo
-This is my first gri repsitory.
+This is my first git repsitory.
